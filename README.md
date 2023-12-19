@@ -1,1 +1,1 @@
-# eks-cluster-using-terraform
+# EKS Cluster Setup Using Terraform
